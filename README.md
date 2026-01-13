@@ -91,16 +91,4 @@ This command will list all EC2 instances in the `us-east-1` region.
 
 ---
 
-## 👤 Author
-
-**Prathmesh Shinde**
-
----
-
-## 📜 License
-
-This project is for learning and personal use. Feel free to modify and enhance it.
-
----
-
 ⭐ If you find this script helpful, feel free to star the repository and share feedback!
