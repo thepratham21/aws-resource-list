@@ -81,14 +81,4 @@ This command will list all EC2 instances in the `us-east-1` region.
 
 ---
 
-## 📈 Future Enhancements
-
-* Add support for more AWS services
-* Pretty-print output using `jq`
-* Menu-driven interface
-* Support for AWS profiles
-* Export output to files (JSON / CSV)
-
----
-
 ⭐ If you find this script helpful, feel free to star the repository and share feedback!
